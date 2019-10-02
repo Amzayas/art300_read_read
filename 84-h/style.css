@@ -1,0 +1,47 @@
+/* --- Web Browser ---*/
+@media only screen and (min-width: 1280px){
+    body{
+        background-color: rgb(213, 199, 188);
+        margin: 0px;
+        margin-top: 0px;
+        padding: 0px;
+        padding-top: 0px;
+        border-left: 7vw;
+        border-right: 0vw;
+        border-top: 0vw;
+        border-bottom: 0vw;
+        border-color: rgb(82, 103, 96);
+        border-style: solid;
+    }
+
+    p{
+        font-size: 1em;
+        margin: ;
+            margin-left: 350px;
+            margin-right: 200px;
+    }
+
+    h3{
+        font-size: 2em;
+        color: rgb(82, 103, 96);
+        margin-left: 20px;
+    }
+}
+
+
+
+/* --- Tablet --- */
+@media only screen and (min-width: 800px) and (max-width: 1280px){
+    body{
+        background-color: rgb(213, 199, 188);
+
+    }
+}
+
+/* --- Smart Phone --- */
+@media only screen and (max-width: 800px){
+    body{
+        background-color: rgb(213, 199, 188);
+
+    }
+}
