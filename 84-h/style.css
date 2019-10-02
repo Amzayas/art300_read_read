@@ -1,3 +1,4 @@
+@import url("https://use.typekit.net/rtb8cch.css");
 /* --- Web Browser ---*/
 @media only screen and (min-width: 1280px){
     body{
@@ -21,10 +22,82 @@
             margin-right: 200px;
     }
 
+    p:nth-of-type(1n + 7){
+        font-size: 1em;
+        margin: ;
+            margin-left: 350px;
+            margin-right: 200px;
+        background-color: rgb(209, 184, 164);
+        margin-top: -16px;
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    p:nth-of-type(1n + 89){
+        font-size: 1em;
+        margin: ;
+            margin-left: 350px;
+            margin-right: 200px;
+        background-color: rgb(213, 199, 188);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
     h3{
+        font-size: 1em;
+        color: black;
+        margin: auto;
+        margin-top: -100px;
+        margin-bottom: 0px;
+        text-align: center;
+        font-family: whitman-display, serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    h3:nth-of-type(1n + 2){
         font-size: 2em;
+        margin-top: 0px;
+        margin-bottom: -100px;
+        font-family: whitman-display, serif;
+        font-weight: 400;
+        font-style: normal;
+
+    }
+
+    h3:nth-of-type(1n + 3){
+        font-size: 2.5em;
+        margin-top: 100px;
+        margin-bottom: 0px;
+        font-family: whitman-display, serif;
+        font-weight: 700;
+        font-style: normal; 
+    }
+
+    h3:nth-of-type(1n + 5){
         color: rgb(82, 103, 96);
+        font-size: 2em;
         margin-left: 20px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: left;
+        font-family: whitman-display, serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    h1{
+        font-size: 12em;
+        text-align: center;
+        color: rgb(82, 103, 96);
+        font-family: whitman-display, serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+    table {
+        margin: auto;
+        text-align: center;
+        color: black;
     }
 }
 
