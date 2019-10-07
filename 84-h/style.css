@@ -167,11 +167,45 @@
         font-family: whitman-display, serif;
         font-weight: 700;
         font-style: normal;
-        margin-top: 0px;
-        margin-bottom: 0px;
-        margin-left: 20px;
+        margin-top: 100px;
+        margin-bottom: -175px;
+        margin-left: 80px;
         transform-origin: bottom left;
         transform: rotate(-90deg);
+    }
+
+    h3:nth-of-type(1n + 6){
+        text-align: left;
+        font-size: 3em;
+        font-family: whitman-display, serif;
+        font-weight: 700;
+        font-style: normal;
+        margin-top: 100px;
+        margin-bottom: -225px;
+        margin-left: 80px;
+        transform-origin: bottom left;
+        transform: rotate(-90deg); 
+    }
+
+    p:nth-of-type(1n + 7){
+        font-size: 1em;
+        margin: ;
+            margin-left: 350px;
+            margin-right: 200px;
+        background-color: rgb(209, 184, 164);
+        margin-top: -16px;
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    p:nth-of-type(1n + 89){
+        font-size: 1em;
+        margin: ;
+            margin-left: 350px;
+            margin-right: 200px;
+        background-color: rgb(213, 199, 188);
+        font-family: Arial, Helvetica, sans-serif;
     }
 
 
